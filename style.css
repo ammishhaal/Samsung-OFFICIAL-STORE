@@ -1,0 +1,27 @@
+.maindiv{
+    width: 800px;
+    height: 350px;
+    background-color: aqua;
+   display: flex;
+   justify-content: center ;
+   align-items: center;
+   flex-direction: row;
+   gap: 50px;
+   flex-wrap: wrap;
+}
+
+.div1{
+
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+
+    
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    
+}
+

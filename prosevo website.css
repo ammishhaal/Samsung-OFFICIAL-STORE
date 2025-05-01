@@ -288,7 +288,7 @@ a{
     gap: 10px;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:900px) {
     .child {
         flex-direction: column-reverse;
 
